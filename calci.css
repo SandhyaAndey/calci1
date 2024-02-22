@@ -1,0 +1,12 @@
+body{
+    background-image: url("calci.jpg"); 
+    background-repeat: no-repeat; 
+    background-size: 100%;
+    font-style: oblique;
+}
+table{
+    background-color: rgb(6, 125, 223);
+}
+button{
+    background-color: skyblue;
+}
